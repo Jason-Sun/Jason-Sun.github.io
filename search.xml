@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/Jason-Sun.github.io/2020/10/14/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<a id="more"></a>
+
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>“那就，开始咯”</title>
+    <url>/Jason-Sun.github.io/2020/10/15/%E2%80%9C%E9%82%A3%E5%B0%B1%EF%BC%8C%E5%BC%80%E5%A7%8B%E5%92%AF%E2%80%9D/</url>
+    <content><![CDATA[<h3 id="纪念一下自己建立的第一个Weblog"><a href="#纪念一下自己建立的第一个Weblog" class="headerlink" title="纪念一下自己建立的第一个Weblog"></a>纪念一下自己建立的第一个Weblog</h3><p>做这个Weblog吧，其实就是闲的无聊刷到了可以用Github做个人网站，这一查，人家都说用Hexo部署特别简单，反正我现在大一刚开学课也不多，那就做呗。</p>
+<a id="more"></a>
+
+<h4 id="网上都是骗人的"><a href="#网上都是骗人的" class="headerlink" title="网上都是骗人的"></a>网上都是骗人的</h4><p>他们说五分钟就能搞好这个！！！</p>
+<p>人家说在一个领域越强的人就越体会不到初学者的感受，这绝对是真理啊！！！</p>
+<p>你想想，能出建站教程的那都是大神啊，人家觉得理所应当的基础知识那我一个greenie就是完全不会，各种基础命令都得自己查自己找，还有各种莫名其妙的问题都不知道。</p>
+<p>就比如网上的教程居然没有一个说要改URL！？教了要给GitHub配置ssh，那我肯定觉得就部署好了啊，谁能想到还要改config里的东西是不是【我得使劲我自己，我是看config里的内容连蒙带猜发现的改URL】</p>
+<p>总之，就从13号折腾到现在才给搞好咯</p>
+<h4 id="再写点什么好呢"><a href="#再写点什么好呢" class="headerlink" title="再写点什么好呢"></a>再写点什么好呢</h4><p>做这个Weblog其实自己也没想好要用来写什么，这么多年也没有记日记的习惯，目前就写写随笔，记录记录大学生活好了。</p>
+]]></content>
+  </entry>
+</search>
