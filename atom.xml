@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>悟空</title>
+  
+  <subtitle>大王叫你来巡山呐</subtitle>
+  <link href="http://jason-sun.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://jason-sun.github.io/"/>
+  <updated>2020-10-15T02:10:21.292Z</updated>
+  <id>http://jason-sun.github.io/</id>
+  
+  <author>
+    <name>悟空</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>鳑鲏</title>
+    <link href="http://jason-sun.github.io/2020/10/15/%E9%B3%91%E9%B2%8F/"/>
+    <id>http://jason-sun.github.io/2020/10/15/%E9%B3%91%E9%B2%8F/</id>
+    <published>2020-10-15T00:47:14.000Z</published>
+    <updated>2020-10-15T02:10:21.292Z</updated>
+    
+    <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容."><div class="hbe-input-container"><input type="password" id="hbePass" placeholder="喂，该输密码了。" /><label>喂，该输密码了。</label><div class="bottom-line"></div></div><script id="hbeData" type="hbeData" data-hmacdigest="ba90d14654665c57a9d328d77dbe565058e162ecc06e8fdf10fd1423ee1c6072">66e7d488a5e8d7f8880c785d2afd2f7fbf49b8bca97884e5ca36ba3fc3278e6bb161a7e9ad4e9193934b13597b91229a7e53aa8e24a2a032ebfe4b448654c4ea95ecfe2d989df7215ef98b2d08c86afed919046881f6e751869d63125493127303545bb4dce80f13078f30504954473b169d4d33a5547351ac435a2b40479c906b589825d62badd124d7b9a569ff67506d70952cd28841e5c2939ddf6777d1a4adb2aabd34b9e444341830cbaa11f5ba74a859ba2bd30e3c64a94359634643f834e8682826c0d33195b00e08c8336a79545b870308ae93595f00f3bcef8bc8235c4c7fd414f2d487218e7ac4218f40ddf60fd1d7a5232d9e15d16a6a0eb23050ad18b05f6e3b23a4d3a74da86e0a77226dc0cafeb73c1f726a6cb9b6d602553515765ef7c6fe429cce380404a0bf8d3ea971ad2375bbc4a15a4938bdaa4ba7652c4bb0f89c78f333c789d863841a431909dfc6f4988a407e5101994bfc48bffa5cbd020fa793fd7e5db076152cc9f38899eac8e6d5153b91be5eb2d08e75233f40a99c3e55b22695486d45579803e3277c4530fdf6da176047f721b49b1a108435e3b24c771940567574c2dd5bb5f5ec</script></div><script src="/Jason-Sun.github.io/lib/blog-encrypt.js"></script><link href="/Jason-Sun.github.io/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">这里有东西被加密了，需要输入密码查看哦。</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>那就，开始咯</title>
+    <link href="http://jason-sun.github.io/2020/10/15/%E9%82%A3%E5%B0%B1%EF%BC%8C%E5%BC%80%E5%A7%8B%E5%92%AF/"/>
+    <id>http://jason-sun.github.io/2020/10/15/%E9%82%A3%E5%B0%B1%EF%BC%8C%E5%BC%80%E5%A7%8B%E5%92%AF/</id>
+    <published>2020-10-15T00:11:34.000Z</published>
+    <updated>2020-10-15T00:48:01.012Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="纪念一下自己建立的第一个Weblog"><a href="#纪念一下自己建立的第一个Weblog" class="headerlink" title="纪念一下自己建立的第一个Weblog"></a>纪念一下自己建立的第一个Weblog</h3><p>做这个Weblog吧，其实就是闲的无聊刷到了可以用Github做个人网站，这一查，人家都说用Hexo部署特别简单，反正我现在大一刚开学课也不多，那就做呗。</p><a id="more"></a><h4 id="网上都是骗人的"><a href="#网上都是骗人的" class="headerlink" title="网上都是骗人的"></a>网上都是骗人的</h4><p>他们说五分钟就能搞好这个！！！</p><p>人家说在一个领域越强的人就越体会不到初学者的感受，这绝对是真理啊！！！</p><p>你想想，能出建站教程的那都是大神啊，人家觉得理所应当的基础知识那我一个greenie就是完全不会，各种基础命令都得自己查自己找，还有各种莫名其妙的问题都不知道。</p><p>就比如网上的教程居然没有一个说要改URL！？教了要给GitHub配置ssh，那我肯定觉得就部署好了啊，谁能想到还要改config里的东西是不是【我得使劲我自己，我是看config里的内容连蒙带猜发现的改URL】</p><p>总之，就从13号折腾到现在才给搞好咯</p><h4 id="再写点什么好呢"><a href="#再写点什么好呢" class="headerlink" title="再写点什么好呢"></a>再写点什么好呢</h4><p>做这个Weblog其实自己也没想好要用来写什么，这么多年也没有记日记的习惯，目前就写写随笔，记录记录大学生活好了。</p>]]></content>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;纪念一下自己建立的第一个Weblog&quot;&gt;&lt;a href=&quot;#纪念一下自己建立的第一个Weblog&quot; class=&quot;headerlink&quot; title=&quot;纪念一下自己建立的第一个Weblog&quot;&gt;&lt;/a&gt;纪念一下自己建立的第一个Weblog&lt;/h3&gt;&lt;p&gt;做这个Weblog吧，其实就是闲的无聊刷到了可以用Github做个人网站，这一查，人家都说用Hexo部署特别简单，反正我现在大一刚开学课也不多，那就做呗。&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://jason-sun.github.io/2020/10/14/hello-world/"/>
+    <id>http://jason-sun.github.io/2020/10/14/hello-world/</id>
+    <published>2020-10-14T03:05:22.309Z</published>
+    <updated>2020-10-14T23:47:04.808Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><a id="more"></a><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&amp;quot;My New Post&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
